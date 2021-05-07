@@ -84,7 +84,7 @@ FinTech businesses in this space have diverted FX and remittance flows away from
 
 As this is a payments business, volumes of remittances executed accross its platform (i.e. flow of funds) is a common metric.  TransferWise measures its competitive position by recording fees saved by customers.  It does this by measuring the cost of its own remittance service against the hypothetical cost of executing the transaction using an alternative service.  
 
-As such, Transferwise records ~$5bn in monthly volumes and suggests it saves customers ~$1.5bn in fees per annum.  If the market for remittances generates ~$40bn annually, it has a market share of ~3.75%.  TransferWise appears to offer close to 'best-in-class' fees. xxx
+As such, Transferwise records ~$5bn in monthly volumes and suggests it saves customers ~$1.5bn in fees per annum.  If the market for remittances generates ~$40bn annually, it has a market share of ~3.75%.  TransferWise appears to offer close to 'best-in-class' fees.
 
 ---
 ## Recommendations
